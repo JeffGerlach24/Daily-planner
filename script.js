@@ -1,2 +1,3 @@
 const { DateTime } = require("luxon");
-let DateTime = luxon.DateTime;
+
+var DateTime = luxon.DateTime;
